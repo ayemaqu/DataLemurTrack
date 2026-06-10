@@ -1,0 +1,5 @@
+Linearity: If you were to plot X and Y for a given case, you'd expect to see a line shape, as one variable increases or decreases the other one changes at a constant rate.
+
+    You don’t want clumps or funnel shapes, that means your data isn’t truly linear.
+    Your data points should be scattered around or near your best-fit line, either in a positive or negative direction.
+    All obseravations are independent of each other
