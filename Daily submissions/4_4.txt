@@ -1,0 +1,7 @@
+problem: A fair die is rolled repeatedly until a number larger than 4 is observed. What's the probability that it takes you 4 rolls to roll a number greater than 4?
+Link: https://datalemur.com/questions/4-rolls-to-4
+
+
+(4/6)³ = 4/6 × 4/6 × 4/6 = 64/216 And then you'd do 64/216 × 2/6 = 128/1296
+
+Theres about a 10% chance it takes you exactly 4 rolls to get a number greater than 4
